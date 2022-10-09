@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace MS_lr
 {
     class Student
-
     {
     }
 }
