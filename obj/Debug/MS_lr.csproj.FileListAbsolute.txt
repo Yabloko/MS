@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MS_lr\bin\Debug\MS_lr.exe.config
+C:\Users\user\source\repos\MS_lr\bin\Debug\MS_lr.exe
+C:\Users\user\source\repos\MS_lr\bin\Debug\MS_lr.pdb
+C:\Users\user\source\repos\MS_lr\obj\Debug\MS_lr.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MS_lr\obj\Debug\MS_lr.Form1.resources
+C:\Users\user\source\repos\MS_lr\obj\Debug\MS_lr.Properties.Resources.resources
+C:\Users\user\source\repos\MS_lr\obj\Debug\MS_lr.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MS_lr\obj\Debug\MS_lr.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MS_lr\obj\Debug\MS_lr.exe
+C:\Users\user\source\repos\MS_lr\obj\Debug\MS_lr.pdb
